@@ -8,7 +8,7 @@ accounts:
     # The email is encrypted.
     # The `secret.key` configured in the Config Server's application.yml, automatically decrypts encrypted values.
     # Encrypted values must be prefixed with `{cipher}` to distinguish them from plain text.
-    email: "2a0e1b9059017763a08b1431c1ac7784c84fa085dad02ff54978ee60b27656e5ee2ec07463586c52fd3c8813782e3983"
+    email: "{cipher}5ba629990d73e6c3b95d1e8013a14e53c090cff319996d8080f0ba9f77f1eb23e40d278766dc46f58362fc6ef22d9d8e"
   onCallSupport:
     - (453) 392-4829
     - (236) 203-0384
